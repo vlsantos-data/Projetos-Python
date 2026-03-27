@@ -1,0 +1,10 @@
+# Automação e RPA
+pyautogui
+pyperclip
+
+# Manipulação de Dados
+pandas
+openpyxl
+
+# Utilidades e QR Code
+qrcode[pillow]
