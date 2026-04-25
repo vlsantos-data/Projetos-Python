@@ -6,5 +6,3 @@ pyperclip
 pandas
 openpyxl
 
-# Utilidades e QR Code
-qrcode[pillow]
